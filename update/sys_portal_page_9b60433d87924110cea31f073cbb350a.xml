@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2022-03-18 16:58:54">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-18 16:34:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9b60433d87924110cea31f073cbb350a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA NeedIt: Active Weekly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_portal_page_9b60433d87924110cea31f073cbb350a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-18 16:34:56</sys_updated_on>
+        <title>PA NeedIt: Active Weekly</title>
+        <user/>
+        <view>pa_needit_application_-_new_tab_2</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA NeedIt: Active Weekly">9b60433d87924110cea31f073cbb350a</page>
+                <summary>#New Breakdown</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2022-03-18 16:36:06</sys_created_on>
+                <sys_id>7bc047f987924110cea31f073cbb35a8</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2022-03-18 16:36:06</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:06">7bc047f987924110cea31f073cbb35a8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:06</sys_created_on>
+                        <sys_id>33c047f987924110cea31f073cbb35aa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:36:06</sys_updated_on>
+                        <value>breakdown</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:06">7bc047f987924110cea31f073cbb35a8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:06</sys_created_on>
+                        <sys_id>37c047f987924110cea31f073cbb35a9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:36:06</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:06">7bc047f987924110cea31f073cbb35a8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:06</sys_created_on>
+                        <sys_id>73c047f987924110cea31f073cbb35a9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:36:06</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:06">7bc047f987924110cea31f073cbb35a8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:06</sys_created_on>
+                        <sys_id>bbc047f987924110cea31f073cbb35a9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:36:06</sys_updated_on>
+                        <value>#New Breakdown</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:06">7bc047f987924110cea31f073cbb35a8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:06</sys_created_on>
+                        <sys_id>f7c047f987924110cea31f073cbb35a9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:36:06</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:06">7bc047f987924110cea31f073cbb35a8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:06</sys_created_on>
+                        <sys_id>fbc047f987924110cea31f073cbb35a8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:36:06</sys_updated_on>
+                        <value>-1</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA NeedIt: Active Weekly">9b60433d87924110cea31f073cbb350a</page>
+                <summary>#New List</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2022-03-18 16:36:17</sys_created_on>
+                <sys_id>aed0cbb987924110cea31f073cbb35bb</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2022-03-18 16:36:17</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:17">aed0cbb987924110cea31f073cbb35bb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:17</sys_created_on>
+                        <sys_id>22d0cbb987924110cea31f073cbb35bc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:36:17</sys_updated_on>
+                        <value>-1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:17">aed0cbb987924110cea31f073cbb35bb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:17</sys_created_on>
+                        <sys_id>2ed0cbb987924110cea31f073cbb35bc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:36:17</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:17">aed0cbb987924110cea31f073cbb35bb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:17</sys_created_on>
+                        <sys_id>66d0cbb987924110cea31f073cbb35bd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:36:17</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:17">aed0cbb987924110cea31f073cbb35bb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:17</sys_created_on>
+                        <sys_id>6ad0cbb987924110cea31f073cbb35bc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:36:17</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:17">aed0cbb987924110cea31f073cbb35bb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:17</sys_created_on>
+                        <sys_id>a6d0cbb987924110cea31f073cbb35bc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:36:17</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:17">aed0cbb987924110cea31f073cbb35bb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:17</sys_created_on>
+                        <sys_id>eed0cbb987924110cea31f073cbb35bc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:36:17</sys_updated_on>
+                        <value>#New List</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA NeedIt: Active Weekly">9b60433d87924110cea31f073cbb350a</page>
+                <summary>Needit weekly</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2022-03-18 16:36:28</sys_created_on>
+                <sys_id>d5e04b3d87924110cea31f073cbb359f</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2022-03-18 16:38:02</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:28">d5e04b3d87924110cea31f073cbb359f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:28</sys_created_on>
+                        <sys_id>19e04b3d87924110cea31f073cbb35a0</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:38:02</sys_updated_on>
+                        <value>Needit weekly</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:28">d5e04b3d87924110cea31f073cbb359f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:28</sys_created_on>
+                        <sys_id>55e04b3d87924110cea31f073cbb35a0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:36:28</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:28">d5e04b3d87924110cea31f073cbb359f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:28</sys_created_on>
+                        <sys_id>59e04b3d87924110cea31f073cbb359f</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:38:02</sys_updated_on>
+                        <value>0721cb3d87924110cea31f073cbb3526</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:28">d5e04b3d87924110cea31f073cbb359f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:28</sys_created_on>
+                        <sys_id>91e04b3d87924110cea31f073cbb35a0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:36:28</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:28">d5e04b3d87924110cea31f073cbb359f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:28</sys_created_on>
+                        <sys_id>9de04b3d87924110cea31f073cbb35a0</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:38:02</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:28">d5e04b3d87924110cea31f073cbb359f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:28</sys_created_on>
+                        <sys_id>dde04b3d87924110cea31f073cbb359f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:36:28</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA NeedIt: Active Weekly">9b60433d87924110cea31f073cbb350a</page>
+                <summary>#New Pivot</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2022-03-18 16:36:51</sys_created_on>
+                <sys_id>f6f0cff987924110cea31f073cbb352b</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2022-03-18 16:36:51</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:51">f6f0cff987924110cea31f073cbb352b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:51</sys_created_on>
+                        <sys_id>3af0cff987924110cea31f073cbb352c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:36:51</sys_updated_on>
+                        <value>#New Pivot</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:51">f6f0cff987924110cea31f073cbb352b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:51</sys_created_on>
+                        <sys_id>76f0cff987924110cea31f073cbb352c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:36:51</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:51">f6f0cff987924110cea31f073cbb352b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:51</sys_created_on>
+                        <sys_id>7af0cff987924110cea31f073cbb352b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:36:51</sys_updated_on>
+                        <value>-1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:51">f6f0cff987924110cea31f073cbb352b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:51</sys_created_on>
+                        <sys_id>b2f0cff987924110cea31f073cbb352c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:36:51</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:51">f6f0cff987924110cea31f073cbb352b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:51</sys_created_on>
+                        <sys_id>bef08b3d87924110cea31f073cbb35d5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:36:51</sys_updated_on>
+                        <value>pivot</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2022-03-18 09:36:51">f6f0cff987924110cea31f073cbb352b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-03-18 16:36:51</sys_created_on>
+                        <sys_id>fef0cff987924110cea31f073cbb352b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-03-18 16:36:51</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
